@@ -1,0 +1,23 @@
+{
+  "FolderId": "83f26e75-f474-4b09-a1d3-aa698e18fbf0",
+  "DaybookId": "87f48c7e-54d1-48d2-aed7-447e6003bc67",
+  "Number": 202410001,
+  "Date": "2024-10-01T00:00:00+00:00",
+  "Confirmed": false,
+  "Lines": [
+    {
+      "Type": 3,
+      "Account": "499000",
+      "Debit": 1000.00,
+      "Credit": 0,
+      "Comment": "Debit - Customer payment received"
+    },
+    {
+      "Type": 3,
+      "Account": "410000",
+      "Debit": 0,
+      "Credit": 1000.00,
+      "Comment": "Credit - Invoice settlement"
+    }
+  ]
+}

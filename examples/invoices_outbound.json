@@ -1,0 +1,35 @@
+{
+  "FolderId": "83f26e75-f474-4b09-a1d3-aa698e18fbf0",
+  "DaybookId": "87f48c7e-54d1-48d2-aed7-447e6003bc67",
+  "Type": 0,
+  "Number": 202410001,
+  "Date": "2024-10-01T00:00:00+00:00",
+  "DueDate": "2024-10-31T00:00:00+00:00",
+  "CompanyId": "32ebe925-23cc-4a3e-8b36-8b2b33780fc1",
+  "TotalAmount": 2420.00,
+  "BaseAmount": 2000.00,
+  "TaxAmount": 420.00,
+  "PaymentReferences": "+++040/7139/58328+++",
+  "Comment": "Consulting services for Q3 2024",
+  "Confirmed": false,
+  "InvoiceLines": [
+    {
+      "Account": "700000",
+      "BaseAmount": 1500.00,
+      "TaxAmount": 315.00,
+      "TaxRate": 21,
+      "TaxOrigin": 0,
+      "TaxType": 0,
+      "Comment": "Consulting hours - 30 hours"
+    },
+    {
+      "Account": "701000",
+      "BaseAmount": 500.00,
+      "TaxAmount": 105.00,
+      "TaxRate": 21,
+      "TaxOrigin": 0,
+      "TaxType": 0,
+      "Comment": "Travel expenses reimbursement"
+    }
+  ]
+}

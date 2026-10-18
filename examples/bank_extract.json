@@ -1,0 +1,41 @@
+{
+  "FolderId": "83f26e75-f474-4b09-a1d3-aa698e18fbf0",
+  "DaybookId": "87f48c7e-54d1-48d2-aed7-447e6003bc67",
+  "Number": 202410001,
+  "Date": "2024-10-01T00:00:00+00:00",
+  "Confirmed": false,
+  "Lines": [
+    {
+      "Type": 1,
+      "Account": "400000",
+      "Amount": 1210.00,
+      "Comment": "Customer payment - Invoice #202409001",
+      "Memo": "SEPA Credit Transfer from ACME Corp",
+      "Date": "2024-10-01T00:00:00+00:00",
+      "CompanyId": "32ebe925-23cc-4a3e-8b36-8b2b33780fc1"
+    },
+    {
+      "Type": 2,
+      "Account": "410000",
+      "Amount": 500.00,
+      "Comment": "Supplier payment - Office supplies",
+      "Memo": "SEPA Direct Debit to Supplier XYZ",
+      "Date": "2024-10-01T00:00:00+00:00",
+      "CompanyId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+    },
+    {
+      "Type": 3,
+      "Account": "521000",
+      "Amount": 25.00,
+      "Comment": "Bank fees",
+      "Memo": "Monthly account maintenance fee",
+      "Date": "2024-10-01T00:00:00+00:00",
+      "CompanyId": "32ebe925-23cc-4a3e-8b36-8b2b33780fc1",
+      "Tax": {
+        "BaseAmount": 20.66,
+        "TaxRate": 21,
+        "TaxAmount": 4.34
+      }
+    }
+  ]
+}

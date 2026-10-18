@@ -1,0 +1,41 @@
+{
+  "FolderId": "83f26e75-f474-4b09-a1d3-aa698e18fbf0",
+  "DaybookId": "87f48c7e-54d1-48d2-aed7-447e6003bc67",
+  "Type": 0,
+  "Number": 202410001,
+  "Date": "2024-10-01T00:00:00+00:00",
+  "DueDate": "2024-10-31T00:00:00+00:00",
+  "CompanyId": "32ebe925-23cc-4a3e-8b36-8b2b33780fc1",
+  "TotalAmount": 1815.00,
+  "BaseAmount": 1500.00,
+  "TaxAmount": 315.00,
+  "PaymentReferences": "+++040/7139/58328+++",
+  "Comment": "Office supplies and equipment",
+  "Confirmed": false,
+  "InvoiceLines": [
+    {
+      "Account": "612000",
+      "BaseAmount": 1000.00,
+      "TaxAmount": 210.00,
+      "TaxRate": 21,
+      "TaxType": 0,
+      "TaxKind": 0,
+      "TaxCondition": 1,
+      "TaxConditionValue": "true",
+      "TaxOrigin": 2,
+      "Comment": "Office supplies"
+    },
+    {
+      "Account": "613000",
+      "BaseAmount": 500.00,
+      "TaxAmount": 105.00,
+      "TaxRate": 21,
+      "TaxType": 0,
+      "TaxKind": 1,
+      "TaxCondition": 1,
+      "TaxConditionValue": "true",
+      "TaxOrigin": 0,
+      "Comment": "Cleaning services"
+    }
+  ]
+}
